@@ -1,4 +1,4 @@
-/* data.txt */
+/* risc.txt */
 // Program that adds the numbers (1+2)+3+6+0=12
 // And places 12 in register 1
 10001100000000010000000000000001 // LW r1, 1(r0)
@@ -26,7 +26,7 @@
 10000000000000000000000000000000 // NOP
 10000000000000000000000000000000 // NOP
 
-/* risc.txt */
+/* data.txt */
 // Contents of data memory
 00000000000000000000000000000000 // Data0
 00000000000000000000000000000001 // Data1
